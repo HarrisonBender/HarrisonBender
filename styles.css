@@ -1,0 +1,94 @@
+body {
+  font-family: "Lato";
+  background-color: rgba(169, 166, 166, 0.653);
+}
+h2,
+p,
+.readme-wrapper {
+  text-align: center;
+}
+.original {
+  color: dodgerblue;
+}
+#show1 {
+  color: green;
+}
+#show2 {
+  color: greenyellow;
+}
+#show3 {
+  color: rgb(16, 102, 69);
+}
+#show4 {
+  color: rgb(20, 50, 35);
+}
+#show5 {
+  color: rgb(4, 54, 4);
+}
+
+.additional {
+  color: firebrick;
+}
+
+ul {
+  color: indigo;
+}
+
+.star {
+  color: lawngreen;
+}
+
+#wars {
+  color: lightsalmon;
+}
+#lists {
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+.boxes {
+  display: block;
+  margin: 2em;
+  padding: 3em;
+  border-style: solid;
+  border-color: indigo;
+  border-radius: 25%;
+  border-width: 2em;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background: black;
+  position: relative;
+  top: 50px;
+  left: 315px;
+}
+
+#box1 {
+  background-color: lightblue;
+}
+#box2 {
+  background-color: lightseagreen;
+}
+#box3 {
+  background-color: rgb(225, 131, 31);
+}
+#box4 {
+  background-color: lightsalmon;
+}
+.readme-wrapper {
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+  font-weight: bolder;
+  font-size: large;
+  cursor: pointer;
+}
